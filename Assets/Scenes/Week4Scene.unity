@@ -165,7 +165,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   studentNumber: 25407762
-  bandReached: 0
+  bandReached: 3
 --- !u!1 &681248591
 GameObject:
   m_ObjectHideFlags: 0
@@ -402,8 +402,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ca93b58669bdc3740befd2322b2b6370, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  blueObj: {fileID: 7030976889365467163, guid: 554d6d83b77584d41b9aecb022d9fe16, type: 3}
-  redObj: {fileID: 7680986685285119153, guid: 232fecb194c5b604b870fa0f38980c86, type: 3}
+  blueObj: {fileID: 4691655185413361895, guid: 3b178f81736fbf644b592d17b6c6011f, type: 3}
+  redObj: {fileID: 3254615532392160332, guid: 2b9080197ab59334f8e3dccd7205d0fc, type: 3}
 --- !u!4 &1486051034
 Transform:
   m_ObjectHideFlags: 0
