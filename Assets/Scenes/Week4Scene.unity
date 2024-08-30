@@ -402,6 +402,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ca93b58669bdc3740befd2322b2b6370, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  blueObj: {fileID: 7030976889365467163, guid: 554d6d83b77584d41b9aecb022d9fe16, type: 3}
   redObj: {fileID: 7680986685285119153, guid: 232fecb194c5b604b870fa0f38980c86, type: 3}
 --- !u!4 &1486051034
 Transform:
