@@ -61,6 +61,8 @@
     <Analyzer Include="D:\Unity\2023.2.10f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\LoadAssets.cs" />
+    <Compile Include="Assets\Scripts\PrintAndHide.cs" />
     <Compile Include="Assets\Scripts\ProgressEvaluator.cs" />
     <Compile Include="Assets\Scripts\Test.cs" />
   </ItemGroup>
